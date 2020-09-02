@@ -1,1 +1,79 @@
+:root {
+  --aug-gray-01: #1c1d21;
+  --aug-gray-02: #2c3137;
+  --aug-gray-03: #434a54;
+  --aug-gray-04: #666e79;
+  --aug-gray-05: #878f9c;
+  --aug-gray-06: #aab2bd;
+  --aug-gray-07: #cbd2da;
+  --aug-gray-08: #e5e8ed;
+  --aug-gray-09: #f6f7f9;
+  --aug-blue-01: #14243b;
+  --aug-blue-02: #1e3b65;
+  --aug-blue-03: #2964b4;
+  --aug-blue-04: #4989e0;
+  --aug-blue-05: #649dea;
+  --aug-blue-06: #81b1f1;
+  --aug-blue-07: #b1d1fa;
+  --aug-blue-08: #e7f1fd;
+  --aug-cyan-01: #36afdc;
+  --aug-cyan-02: #4dc0ec;
+  --aug-cyan-03: #87dbfd;
+  --aug-yellow-01: #c08b00;
+  --aug-yellow-02: #f6ba24;
+  --aug-yellow-03: #fee69e;
+  --aug-purple-01: #643cd1;
+  --aug-purple-02: #967ae0;
+  --aug-purple-03: #d3c1fb;
+  --aug-green-01: #629225;
+  --aug-green-02: #89c142;
+  --aug-green-03: #bde688;
+  --aug-red-01: #b92130;
+  --aug-red-02: #dc4453;
+  --aug-red-03: #f89ea7;
+  --aug-orange-01: #ba2b0d;
+  --aug-orange-02: #eb5437;
+  --aug-orange-03: #ff9176;
+  --aug-turquoise-01: #1f977b;
+  --aug-turquoise-02: #2fbb98;
+  --aug-turquoise-03: #b6ecde;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	background-color: var(--aug-gray-01);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
